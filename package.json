@@ -1,0 +1,17 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Leal",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "dotenv": "^6.1.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
